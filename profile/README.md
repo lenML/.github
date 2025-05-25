@@ -11,6 +11,7 @@ LenML is an open-source organization focused on building AI-centric projects.
 - [![GitHub stars](https://img.shields.io/github/stars/lenML/lenml-llm-leaderboard?style=social) lenml-llm-leaderboard](https://github.com/lenML/lenml-llm-leaderboard) A lightweight leaderboard for evaluating and comparing LLMs.
 - [![GitHub stars](https://img.shields.io/github/stars/lenML/llm-boot?style=social) llm-boot](https://github.com/lenML/llm-boot) Run local LLMs effortlessly with a minimal setup.
 - [![GitHub stars](https://img.shields.io/github/stars/lenML/pflow?style=social) pflow](https://github.com/lenML/pflow) A customized enhancement of the PocketFlow compression framework.
+- [![GitHub stars](https://img.shields.io/github/stars/lenML/page-tools?style=social) page-tools](https://github.com/lenML/page-tools) Publish 1 page tools using github pages
 
 ## 🧪 Work-in-Progress (WIP)
 
