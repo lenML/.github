@@ -6,6 +6,7 @@ LenML is an open-source organization focused on building AI-centric projects.
 
 - [![GitHub stars](https://img.shields.io/github/stars/lenML/Speech-AI-Forge?style=social) Speech-AI-Forge](https://github.com/lenML/Speech-AI-Forge) A TTS generation project featuring an API server and a Gradio-based WebUI.
 - [![GitHub stars](https://img.shields.io/github/stars/lenML/tokenizers?style=social) tokenizers](https://github.com/lenML/tokenizers) A lightweight, dependency-free tokenizer forked from transformers.js.
+- [![GitHub stars](https://img.shields.io/github/stars/lenML/CCEditor?style=social) CCEditor](https://github.com/lenML/CCEditor) character card editor online.
 - [![GitHub stars](https://img.shields.io/github/stars/lenML/char-card-reader?style=social) char-card-reader](https://github.com/lenML/char-card-reader) A zero-dependency reader for SillyTavern character cards.
 - [![GitHub stars](https://img.shields.io/github/stars/lenML/litegraph.ts?style=social) litegraph.ts](https://github.com/lenML/litegraph.ts) A TypeScript port of the original litegraph.js.
 - [![GitHub stars](https://img.shields.io/github/stars/lenML/lenml-llm-leaderboard?style=social) lenml-llm-leaderboard](https://github.com/lenML/lenml-llm-leaderboard) A lightweight leaderboard for evaluating and comparing LLMs.
